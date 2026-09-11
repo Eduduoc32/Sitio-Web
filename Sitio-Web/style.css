@@ -1,3 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap');
+
+body {
+    font-family: 'Google Sans Flex', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    background-color: #fefefe;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "ROND" 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
 h1 {
-    color: blue;
+    color: rgb(0, 0, 0);
 }
